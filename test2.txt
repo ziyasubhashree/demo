@@ -3,3 +3,6 @@ just some updates , on the branch.
 
 
 I hope this isn't much of a problem!
+Eg of stash
+updates in stage
+here's one more comment
